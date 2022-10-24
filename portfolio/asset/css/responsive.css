@@ -1,0 +1,71 @@
+@media only screen and (max-width:550px) {
+    .into-profile img {
+        width: 50%;
+        margin-left: 28%;
+        margin-top: 20%;
+    }
+  .logo a img {
+	width: 100%;
+	height: auto;
+}
+.menu_bar ul li {
+	margin-left: 33px;
+	margin-top: 25px;
+}
+.into-info p {
+	width: 100%;
+}
+img, svg {
+	vertical-align: middle;
+	width: 100%;
+}
+.about-btn a {
+	position: absolute;
+	left: 70%;
+}
+.single-portfolio {
+	width: 80%;
+	margin-left: 10%;
+}
+.about-social {
+	margin-left: -38px;
+	margin-top: -160%;
+}
+
+  }
+  @media only screen and (max-width:800px){
+      
+img, svg {
+	width: 100%;
+}
+.into-info p {
+	width: 100%;
+}
+.into-profile img {
+	width: 60%;
+	margin-left: 22%;
+	margin-top: 15%;
+}
+.about-social {
+	margin-left: -38px;
+	margin-top: -160%;
+}
+  }
+
+  @media only screen and (max-width:998px){
+    img, svg {
+        width: 100%;
+    }
+    .into-info p {
+        width: 100%;
+    }
+    .into-profile img {
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 15%;
+    }
+    .about-social {
+        margin-left: -38px;
+        margin-top: -160%;
+    }
+  }
